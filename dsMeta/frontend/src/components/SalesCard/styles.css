@@ -12,6 +12,7 @@
 
 .dsmeta-form-control-container {
   margin-bottom: 16px;
+  max-width: 300px;
 }
 
 .dsmeta-form-control {
@@ -47,7 +48,7 @@
   color: #cfcfcf;
 }
 
-.dsmeta-sales-table tbody > tr {
+.dsmeta-sales-table tbody tr {
   height: 74px;
   border-top: 1px solid #5f6e82;
 }
